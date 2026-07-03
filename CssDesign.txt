@@ -1,0 +1,14 @@
+Background:
+#050505
+
+Primary:
+#8b5cf6
+
+Secondary:
+#00f7ff
+
+Text:
+#ffffff
+
+Glow:
+purple + cyan
