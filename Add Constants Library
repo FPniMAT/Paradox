@@ -1,0 +1,9 @@
+refactor: centralize protocol constants
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.24;
+
+library Constants {
+    uint8 internal constant DECIMALS = 18;
+    string internal constant NAME = "Paradox";
+    string internal constant SYMBOL = "PRDX";
+}
