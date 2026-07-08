@@ -1,0 +1,7 @@
+function circulatingSupply() public view returns (uint256) {
+    return totalSupply();
+}
+
+function version() external pure returns (string memory) {
+    return "1.0.0";
+}
